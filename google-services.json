@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "493302036083",
+    "project_id": "smarttrips-4ba16",
+    "storage_bucket": "smarttrips-4ba16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493302036083:android:15f483604acb9fe67c9c06",
+        "android_client_info": {
+          "package_name": "com.sjsu.smarttrips"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493302036083-dkcmod4rutpd7q3rhqubjju1nne3trc9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sjsu.smarttrips",
+            "certificate_hash": "2446349008359cdb50e35516c9a7a8609ff3f62e"
+          }
+        },
+        {
+          "client_id": "493302036083-b9slqcbg03mm9cgj0mac0brl3tajnirs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLYDvPbUgawp4-A5xepR-XgeCkB869jY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493302036083-b9slqcbg03mm9cgj0mac0brl3tajnirs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
